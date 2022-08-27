@@ -4,6 +4,6 @@
   "name": "Leads tracker",
   "action": {
     "default_popup": "index.html",
-    "default_icon": "hand money.jpg"
+    "default_icon": "handmoney.png"
   }
 }
